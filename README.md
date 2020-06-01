@@ -4,6 +4,7 @@
 GAN for face:
 ~~~
 https://github.com/akanimax/BMSG-GAN
+https://github.com/wywu/ReenactGAN
 ~~~
 
 To look at:
