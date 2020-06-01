@@ -2,7 +2,9 @@
 	+ https://github.com/vt-vl-lab/Guided-pix2pix [PyTorch]
 
 GAN for face:
+~~~
 https://github.com/akanimax/BMSG-GAN
+~~~
 
 To look at:
 ~~~
